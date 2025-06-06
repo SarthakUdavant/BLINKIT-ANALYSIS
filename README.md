@@ -7,6 +7,7 @@ This project involves exploratory data analysis (EDA) on Blinkit (formerly Grofe
  - Identify key insights about item types, visibility, outlet types, and other factors influencing sales.
 
 📌 Key Results:
+
 1.Dataset Size:
  - Total records: 8,523
  - Total features (columns): 12
@@ -30,6 +31,7 @@ This project involves exploratory data analysis (EDA) on Blinkit (formerly Grofe
  - Soft drinks and canned goods also contributed notably.
 
 📈 🔍  Insights:
+
 1.Total Sales by Item Type:
 
  - Certain item types like Fruits and Vegetables, Frozen Foods, and Canned goods had noticeably higher total sales.
