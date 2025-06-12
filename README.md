@@ -41,7 +41,7 @@ This project involves exploratory data analysis (EDA) on Blinkit (formerly Grofe
 - Data Cleaning & Preparation to handle missing values and outliers
 - Exploratory Data Analysis (EDA) to draw meaningful patterns
 
-## 📈 🔍  Insights:
+## 📈 🔍 Final Insights:
 
 1.Total Sales by Item Type:
 
